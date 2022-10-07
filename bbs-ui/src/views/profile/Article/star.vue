@@ -1,8 +1,7 @@
 <template>
   <div>
-    <router-view></router-view>
+    star
   </div>
-
 </template>
 
 <script setup>

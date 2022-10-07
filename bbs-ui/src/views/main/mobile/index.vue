@@ -1,8 +1,7 @@
 <template>
   <div>
-    <router-view></router-view>
+    移动端
   </div>
-
 </template>
 
 <script setup>

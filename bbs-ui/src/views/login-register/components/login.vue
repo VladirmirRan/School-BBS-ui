@@ -4,7 +4,8 @@
     <input class="mb-4 mx-2 p-2 border-b-2 border-gray-200 outline-0 focus:border-red-500"
            placeholder="用户名"
            v-model="form.usrName">
-    <input class="mb-4 mx-2 p-2 border-b-2 border-gray-200 outline-0 focus:border-red-500"
+    <input type="password"
+           class="mb-4 mx-2 p-2 border-b-2 border-gray-200 outline-0 focus:border-red-500"
            placeholder="密码"
            v-model="form.password">
     <div class="text-right text-gray-500 mx-4 text-xs cursor-pointer"
@@ -27,8 +28,8 @@ const store = useStore();
 
 defineEmits(["show"]);
 const form = ref({
-  usrName: "dxy",
-  password: "123456",
+  usrName: "dxy2",
+  password: "Dxy20221001",
 });
 
 const login = async () => {

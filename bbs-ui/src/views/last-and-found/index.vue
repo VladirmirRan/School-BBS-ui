@@ -1,8 +1,7 @@
 <template>
   <div>
-    <router-view></router-view>
+    lastAndFound
   </div>
-
 </template>
 
 <script setup>

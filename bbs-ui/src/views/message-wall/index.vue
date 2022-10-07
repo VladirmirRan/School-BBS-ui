@@ -1,6 +1,6 @@
 <template>
   <div>
-    移动端导航栏
+    表白墙
   </div>
 </template>
 

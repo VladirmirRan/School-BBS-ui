@@ -1,6 +1,6 @@
-# School-BBS 前端项目
+# School-BBS 前端项目之前台系统
 ## 技术栈
-Vue3 + Vite + tailwindcss + axios
+Vue3 + Vite + tailwindcss + axios + vuex + + vueRouter
 ## 快速运行
 1. 安装依赖包:
 ```npm install```

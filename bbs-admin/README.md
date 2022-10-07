@@ -1,24 +1,10 @@
-# bbs-admin
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# School-BBS 前端项目之后台系统
+## 技术栈
+Vue2 + ant-design-vue + axios + vuex + vueRouter
+## 快速运行
+1. 安装依赖包:
+```npm install```
+2. 启动项目
+```npm run serve```
+3. 打包项目
+```npm run build```
